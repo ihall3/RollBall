@@ -1,0 +1,1 @@
+I created this Rolling ball game to practice with unity. The basics of the game consists of rolling to collect all the points before the enemy reaches you. The enemy is AI created and will constantly chase you around the map. 
